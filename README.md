@@ -64,7 +64,10 @@ It contains (Dataset Links, Recommended Reading Papers)
 * Co-attention hierarchical network: Generating coherent long distractors for reading comprehension  (AAAI) [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/6522)
 * Automatic Distractor Generation for Multiple Choice Questions in Standard Tests  (COLING) [Paper](https://aclanthology.org/2020.coling-main.189/)
 * QDG: A unified model for automatic question-distractor pairs generation  (Applied Intelligence) [Paper](https://link.springer.com/article/10.1007/s10489-022-03894-6)
-* Learning to distract: A hierarchical multi-decoder network for automated generation of long distractors for multiple-choice questions for reading comprehension  (CIKM) [Paper](https://dl.acm.org/doi/abs/10.1145/3340531.3411997)
-* A BERT-based Distractor Generation Scheme with Multi-tasking and Negative Answer Training Strategies  () [Paper]()
+* Learning to distract: A hierarchical multi-decoder network for automated generation of long distractors for multiple-choice questions for reading comprehension (CIKM) [Paper](https://dl.acm.org/doi/abs/10.1145/3340531.3411997)
+* A BERT-based Distractor Generation Scheme with Multi-tasking and Negative Answer Training Strategies  (EMNLP) [Paper](https://aclanthology.org/2020.findings-emnlp.393/)
 * Diverse distractor generation for constructing high-quality multiple choice questions  (ACM Transactions on Audio, Speech, and Language) [Paper](https://ieeexplore.ieee.org/abstract/document/9664245)
+
+### Multi-Modal Distractor Generation
+* Good, better, best: Textual distractors generation for multiple-choice visual question answering via reinforcement learning (CVPR) [Paper](https://openaccess.thecvf.com/content/CVPR2022W/ODRUM/html/Lu_Good_Better_Best_Textual_Distractors_Generation_for_Multiple-Choice_Visual_Question_CVPRW_2022_paper.html)
   
