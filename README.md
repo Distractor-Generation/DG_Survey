@@ -36,3 +36,12 @@ It contains (Dataset Links, Recommended Reading Papers)
 
 ## Recommended Reading Papers
 ### Surveys
+* A Survey of Natural Language Generation (ACM Computing Surveys) [Paper](https://dl-acm-org.simsrad.net.ocs.mq.edu.au/doi/10.1145/3554727)
+* A Review on Question Generation from Natural Language Text (ACM Transactions on Information Systems) [Paper](https://dl.acm.org/doi/abs/10.1145/3468889)
+* A Systematic Review of Automatic Question Generation for Educational Purposes ( International Journal of Artificial Intelligence in Education ) [Paper](https://link.springer.com/article/10.1007/s40593-019-00186-y)
+* Automatic Multiple Choice Question Generation From Text: A Survey (IEEE Transactions on Learning Technologies) [Paper] (https://ieeexplore.ieee.org/abstract/document/8585151)
+* Automatic question generation and answer assessment: a survey (Research and Practice in Technology Enhanced Learning) [Paper](https://telrp.springeropen.com/articles/10.1186/s41039-021-00151-1)
+* Survey of Hallucination in Natural Language Generation  (ACM Computing Surveys) [Paper](https://dl.acm.org/doi/abs/10.1145/3571730)
+* A Survey of Controllable Text Generation Using Transformer-based Pre-trained Language Models (ACM Computing Surveys) [Paper](https://dl.acm.org/doi/abs/10.1145/3617680)
+
+
