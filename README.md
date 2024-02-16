@@ -1,7 +1,7 @@
 # DG_Survey
 This is reading list for **Distractor Generation for Multiple-Choice Questions: A Survey of Methods, Datasets, and Evaluation**
 It contains (Dataset Links, Recommended Research Studies)
-## Datasets Links & Papers
+## Dataset - [Paper] (Publisher) [Dataset Link]
 * CLOTH  - [Large-scale Cloze Test Dataset Created by Teachers] (EMNLP) [Dataset](https://www.cs.cmu.edu/~glai1/data/cloth/)
 * SCDE   - [SCDE: Sentence Cloze Dataset with High Quality Distractors From Examinations] (ACL) [Dataset](https://vgtomahawk.github.io/sced.html)
 * DGen   - [Knowledge-Driven Distractor Generation for Cloze-Style Multiple Choice Questions] (AAAI) [Dataset](https://github.com/DRSY/DGen)
