@@ -1,7 +1,7 @@
 # DG_Survey
 This is reading list for **Distractor Generation for Multiple-Choice Questions: A Survey of Methods, Datasets, and Evaluation**
 
-It contains (Dataset Links, Recommended Research Studies)
+It contains (Dataset Links, Recommended Reading Papers)
 
 ## Dataset - [Paper] (Publisher) [Dataset Link]
 * CLOTH  - [Large-scale Cloze Test Dataset Created by Teachers] (EMNLP) [Dataset](https://www.cs.cmu.edu/~glai1/data/cloth/)
@@ -34,8 +34,5 @@ It contains (Dataset Links, Recommended Research Studies)
 * RecipeQA - [RecipeQA: A Challenge Dataset for Multimodal Comprehension of Cooking Recipes] (EMNLP) [Dataset]()
 * ScienceQA - [Learn to Explain: Multimodal Reasoning via Thought Chains for Science Question Answering] (NeurIPS) [Dataset]()
 
-
-
-
-
-## Recommended Research Studies
+## Recommended Reading Papers
+### Surveys
