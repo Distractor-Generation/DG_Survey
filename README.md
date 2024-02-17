@@ -14,9 +14,12 @@ It contains (Recommended Reading Papers, Dataset Links)
 * A Survey of Controllable Text Generation Using Transformer-based Pre-trained Language Models (ACM Computing Surveys) [Paper](https://dl.acm.org/doi/abs/10.1145/3617680)
 
 ### Multiple-Choice Distractor Generation
+* Automatic distractor suggestion for multiple-choice tests using concept embeddings and information retrieval (BEA) [Paper](https://aclanthology.org/W18-0548/)
+* Automatic generation of context-based fill-in-the-blank exercises using co-occurrence likelihoods and Google n-grams (BEA) [Paper](https://aclanthology.org/W16-0503.pdf)
 * A novel approach to generate distractors for multiple choice questions (Expert Systems with Applications) [Paper](https://www.sciencedirect.com/science/article/pii/S0957417423005249)
 * Revup: Automatic Gap-fill Question Generation from Educational Texts (BEA) [Paper](https://aclanthology.org/W15-0618.pdf)
 * Questimator: Generating Knowledge Assessments for Arbitrary Topics (IJCAI) [Paper](https://www.ijcai.org/Proceedings/16/Papers/524.pdf)
+* Distractor generation with generative adversarial nets for automatically creating fill-in-the-blank questions (K-Cap) [Paper](https://dl.acm.org/doi/abs/10.1145/3148011.3154463)
 * Multisource Soft Labeling and Hard Negative Sampling for Retrieval Distractor Ranking (IEEE Transactions on Learning Technologies) [Paper](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4620076)
 * Learning to Reuse Distractors to Support Multiple-Choice Question Generation in Education (IEEE Transactions on Learning Technologies) [Paper](https://ieeexplore.ieee.org/abstract/document/9969921)
 * Distractor Generation based on Text2Text Language Models with Pseudo Kullback-Leibler Divergence Regulation (ACL) [Paper](https://aclanthology.org/2023.findings-acl.790/)
@@ -25,6 +28,7 @@ It contains (Recommended Reading Papers, Dataset Links)
 * Difficulty-aware Distractor Generation for Gap-Fill Items (ALTA) [Paper](https://aclanthology.org/U19-1021.pdf)
 * Automatic Generation of Distractors for Fill-in-the-Blank Exercises with Round-Trip Neural Machine Translation (ACL) [Paper](https://aclanthology.org/2022.acl-srw.31/)
 * A Comparative Study of AI-Generated (GPT-4) and Human-crafted MCQs in Programming Education (ACE) [Paper](https://dl.acm.org/doi/abs/10.1145/3636243.3636256)
+* Automated Distractor and Feedback Generation for Math Multiple-choice Questions via In-context Learning (NeurIPS) [Paper](https://arxiv.org/abs/2308.03234)
 
 ### Reading Comprehension Distractor Generation
 * Sequence to sequence learning with neural networks (NeurIPS) [Paper](https://proceedings.neurips.cc/paper/2014/hash/a14ac55a4f27472c5d894ec1c3c743d2-Abstract.html)
@@ -70,6 +74,12 @@ It contains (Recommended Reading Papers, Dataset Links)
 * TQA - [Are You Smarter Than a Sixth Grader? Textbook Question Answering for Multimodal Machine Comprehension] (CVPR) [Dataset](https://allenai.org/data/tqa)
 * RecipeQA - [RecipeQA: A Challenge Dataset for Multimodal Comprehension of Cooking Recipes] (EMNLP) [Dataset](https://hucvl.github.io/recipeqa/)
 * ScienceQA - [Learn to Explain: Multimodal Reasoning via Thought Chains for Science Question Answering] (NeurIPS) [Dataset](https://scienceqa.github.io/#dataset)
+
+### Evaluation Methods
+* Assessing ranking metrics in top-N recommendation (Information Retrieval Journal) [Paper](https://link.springer.com/article/10.1007/s10791-020-09377-x)
+* A survey of evaluation metrics used for NLG systems (ACM Computing Surveys) [Paper](https://dl.acm.org/doi/abs/10.1145/3485766)
+
+
 
 
   
