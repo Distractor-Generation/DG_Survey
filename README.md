@@ -78,6 +78,8 @@ It contains (Recommended Reading Papers, Dataset Links)
 ### Evaluation Methods
 * Assessing ranking metrics in top-N recommendation (Information Retrieval Journal) [Paper](https://link.springer.com/article/10.1007/s10791-020-09377-x)
 * A survey of evaluation metrics used for NLG systems (ACM Computing Surveys) [Paper](https://dl.acm.org/doi/abs/10.1145/3485766)
+* Why We Need New Evaluation Metrics for NLG (EMNLP) [Paper](https://aclanthology.org/D17-1238/)
+* BLEU is Not Suitable for the Evaluation of Text Simplification (EMNLP) [Paper](https://aclanthology.org/D18-1081/)
 
 
 
