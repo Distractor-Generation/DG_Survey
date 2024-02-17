@@ -10,7 +10,7 @@ from tqdm import tqdm
 from mcq_utils import DataProcessor, write_vocabulary, get_all_subfiles
 
 
-# Cloze - FITB - Datasets (CLOTH, CLOTH-M, CLOTH-H, SCDE, DGen, CELA)
+# FITB - Datasets (CLOTH, CLOTH-M, CLOTH-H, SCDE, DGen, CELA)
 # CLOTH dataset
 class CLOTHProcessor(DataProcessor):
     def get_all_examples(self, data_dir, debug_flag):
@@ -144,7 +144,7 @@ class CELAProcessor(DataProcessor):
                 "answers": answer_list}
 
     
-# Cloze - MCQ - Datasets (SciQ, OpenBookQA, ARC, ARC-Challange, ARC-Easy, CommonSenseQA, MCQL, QASC, Televic, EduQG) 
+# MCQ - Datasets (SciQ, OpenBookQA, ARC, ARC-Challange, ARC-Easy, CommonSenseQA, MCQL, QASC, Televic, EduQG) 
 #SciQ dataset
 class SciQProcessor(DataProcessor):
 
@@ -677,10 +677,7 @@ class WhoDidWhatProcessor(DataProcessor):
                 "passages": passage_list,
                 "answers": answer_list}
 
-#BT
-
 # Reading Comprehension - MCQ - Datasets (MCTest, RACE, RACE-M, RACE-H, RACE-C, DREAM, CosmosQA, ReClor, QuAIL) 
-
 # MCTest-500
 class MCTest500Processor(DataProcessor):
 
@@ -954,7 +951,6 @@ class CosmosQAProcessor(DataProcessor):
                 "passages": passage_list,
                 "answers": answer_list}
 
-
 #ReClor
 class ReClorProcessor(DataProcessor):
 
@@ -988,7 +984,6 @@ class ReClorProcessor(DataProcessor):
         return {"questions": question_list,
                 "passages": passage_list,
                 "answers": answer_list}
-
 
 #QuAIL
 class QuAILProcessor(DataProcessor):
@@ -1032,7 +1027,6 @@ class QuAILProcessor(DataProcessor):
         return {"questions": question_list,
                 "passages": passage_list,
                 "answers": answer_list}
-
 
 # Multimodal Datasets - (MovieQA, Visual7W, TQA, RecipeQA) 
 # MovieQA
@@ -1103,9 +1097,7 @@ class Visual7WProcessor(DataProcessor):
                    answer_list.append(item)
 
        return {"questions": question_list,
-                "answers": answer_list}
-
- 
+                "answers": answer_list} 
 
 # TQA
 class TQAProcessor(DataProcessor):
@@ -1264,14 +1256,14 @@ class ScienceQAProcessor(DataProcessor):
                 "answers": answer_list}
   
 processors = {
-# CLOZE - FITB
+# FITB
     "cloth" : CLOTHProcessor,
     "clothm" : CLOTHMProcessor,
     "clothh" : CLOTHHProcessor,
     "scde" : SCDEProcessor,
     "dgen"  : DGENProcessor,
     "cela" : CELAProcessor,
-# CLOZE - MCQ   
+# MCQ   
     "sciq" : SciQProcessor,
     "aquarat": AquaRatProcessor,
     "openbookqa" : OpenBookQAProcessor,
