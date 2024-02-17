@@ -81,6 +81,14 @@ It contains (Recommended Reading Papers, Dataset Links, and Evaluation Methods)
 * Why We Need New Evaluation Metrics for NLG (EMNLP) [Paper](https://aclanthology.org/D17-1238/)
 * BLEU is Not Suitable for the Evaluation of Text Simplification (EMNLP) [Paper](https://aclanthology.org/D18-1081/)
 
+### Distractor Generation Approaches
+#### Similarity
+* Fast--an automatic generation system for grammar tests (COLING) [Paper](https://aclanthology.org/P06-4001.pdf)
+* Glove: Global vectors for word representation (EMNLP) [Paper](https://aclanthology.org/D14-1162.pdf)
+* Automatic generation of context-based fill-in-the-blank exercises using co-occurrence likelihoods and Google n-grams (BEA) [Paper](https://aclanthology.org/W16-0503.pdf)
+
+
+
 
 
 
