@@ -3,14 +3,14 @@ result_folder = data_folder + "_DG_TASK_RESULT"
 save_data_path = r'C:Desktop//Project//data_folder//DG_TASK_ANALYSIS//'
 
 dataset_names = {
-# Task : CLOZE FITB
+# Task : FITB
     "cloth" : "CLOTH",
     "clothm" : "CLOTHM",
     "clothh" : "CLOTHH",
     "scde": "SCDE", 
     "dgen" : "DGEN",
     "cela": "CELA",
-# Task : CLOZE MCQ
+# Task :  MCQ
     "sciq" : "SCIQ",
     "aquarat": "AQUARAT",
     "openbookqa" : "OpenBookQA",
@@ -48,14 +48,14 @@ dataset_names = {
 }
 
 datapaths = {
-# Task : CLOZE FITB
+# Task :  FITB
      "cloth" : data_folder + 'CLOTH//',
      "clothm" : data_folder + 'CLOTHM//',
      "clothh" : data_folder + 'CLOTHH//',
      "scde" : data_folder + 'SCDE//',
      "dgen" : data_folder + 'DGEN//',
      "cela": data_folder + "cela//",
-# Task : CLOZE MCQ   
+# Task :  MCQ   
     "sciq" : data_folder + 'SCIQ//',
     "aquarat": data_folder + "AQUARAT//",
     "openbookqa": data_folder + 'OpenBookQA//',
