@@ -87,6 +87,28 @@ It contains (Recommended Reading Papers, Dataset Links, and Evaluation Methods)
 * Glove: Global vectors for word representation (EMNLP) [Paper](https://aclanthology.org/D14-1162.pdf)
 * Automatic generation of context-based fill-in-the-blank exercises using co-occurrence likelihoods and Google n-grams (BEA) [Paper](https://aclanthology.org/W16-0503.pdf)
 
+#### Ranking
+* Distractor Generation for Multiple Choice Questions Using Learning to Rank (BEA) [Dataset](https://github.com/harrylclc/LTR-DG)
+* Multisource Soft Labeling and Hard Negative Sampling for Retrieval Distractor Ranking (IEEE Transactions on Learning Technologies) [Paper](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4620076)
+* Ranking multiple choice question distractors using semantically informed neural networks (CIKM) [Paper](https://dl.acm.org/doi/abs/10.1145/3340531.3417468)
+
+### Deep Neural Network
+* Sequence to sequence learning with neural networks (NeurIPS) [Paper](https://proceedings.neurips.cc/paper/2014/hash/a14ac55a4f27472c5d894ec1c3c743d2-Abstract.html)
+* Effective Approaches to Attention-based Neural Machine Translation (EMNLP) [Paper](https://aclanthology.org/D15-1166.pdf)
+* A Hierarchical Neural Autoencoder for Paragraphs and Documents (ACL) [Paper](https://aclanthology.org/P15-1107.pdf)
+
+### Attention
+* -Guided Encoding for Keyphrase Generation (AAAI) [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/4587)
+* Bidirectional Attention Flow for Machine Comprehension (ICLR) [Paper](https://arxiv.org/pdf/1611.01603.pdf)
+* BAG: Bi-directional Attention Entity Graph Convolutional Network for Multi-hop Reasoning Question Answering (NAACL) [Paper](https://aclanthology.org/N19-1032/)
+
+### The Transformer
+* BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (NAACL) [Paper](https://aclanthology.org/N19-1423.pdf?utm_medium=email&utm_source=transaction)
+*  BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension (ACL) [Paper](https://aclanthology.org/2020.acl-main.703.pdf)
+*  Training language models to follow instructions with human feedback (NeurIPS) [Paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/b1efde53be364a73914f58805a001731-Abstract-Conference.html)
+
+
+
 
 
 
