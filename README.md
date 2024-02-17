@@ -32,7 +32,7 @@ It contains (Recommended Reading Papers, Dataset Links)
 
 ### Reading Comprehension Distractor Generation
 * Sequence to sequence learning with neural networks (NeurIPS) [Paper](https://proceedings.neurips.cc/paper/2014/hash/a14ac55a4f27472c5d894ec1c3c743d2-Abstract.html)
-* Effective Approaches to Attention-based Neural Machine Translation (EMNLP)(https://aclanthology.org/D15-1166.pdf)
+* Effective Approaches to Attention-based Neural Machine Translation (EMNLP) [Paper](https://aclanthology.org/D15-1166.pdf)
 * Generating distractors for reading comprehension questions from real examinations  (AAAI) [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/4606)
 * Co-attention hierarchical network: Generating coherent long distractors for reading comprehension  (AAAI) [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/6522)
 * Automatic Distractor Generation for Multiple Choice Questions in Standard Tests  (COLING) [Paper](https://aclanthology.org/2020.coling-main.189/)
