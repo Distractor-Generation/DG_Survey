@@ -1,7 +1,7 @@
 # DG_Survey
 This is reading list for **Distractor Generation for Multiple-Choice Questions: A Survey of Methods, Datasets, and Evaluation**
 
-It contains (Recommended Reading Papers, Dataset Links)
+It contains (Recommended Reading Papers, Dataset Links, and Evaluation Methods)
 
 ## Recommended Reading Papers
 ### Surveys
