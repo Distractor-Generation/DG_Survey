@@ -26,6 +26,7 @@ It contains **recommended reading papers** and dataset **links**.
 * Automatic Generation of Challenging Distractors Using Context-Sensitive Inference Rules (BEA)[Paper](https://aclanthology.org/W14-1817.pdf)
 
 #### Graph-based
+* Computer-aided generation of multiple-choice tests (NAACL) [Paper](https://aclanthology.org/W03-0203.pdf)
 * Semantic Similarity of Distractors in Multiple-Choice Tests: Extrinsic Evaluation (GEMS) [Paper](https://aclanthology.org/W09-0207.pdf)
 * Knowledge-Driven Distractor Generation for Cloze-Style Multiple Choice Questions (AAAI) [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/16559)
 * Multiple Choice Question Generation Utilizing An Ontology (BEA) [Paper](https://aclanthology.org/W17-5034/)
@@ -81,6 +82,7 @@ It contains **recommended reading papers** and dataset **links**.
 * Distractor generation for multiple-choice questions with predictive prompting and large language models (RKDE) [Paper](https://arxiv.org/pdf/2307.16338)
 * Automated Distractor and Feedback Generation for Math Multiple-choice Questions via In-context Learning (NeurIPS) [Paper](https://arxiv.org/pdf/2308.03234)
 * A Comparative Study of AI-Generated (GPT-4) and Human-crafted MCQs in Programming Education (ACE) [Paper](https://dl.acm.org/doi/abs/10.1145/3636243.3636256)
+*  Chain-of-Thought Prompting Elicits Reasoning in Large Language Models (NeurIPS) [Paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/9d5609613524ecf4f15af0f7b31abca4-Abstract-Conference.html)
 
 ### Other Models
 * Distractor Generation for Multiple Choice Questions Using Learning to Rank (BEA) [Paper](https://aclanthology.org/W18-0533.pdf)
