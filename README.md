@@ -102,7 +102,7 @@ It contains **recommended reading papers** and dataset **links**.
 * Why We Need New Evaluation Metrics for NLG (EMNLP) [Paper](https://aclanthology.org/D17-1238/)
 * BLEU is Not Suitable for the Evaluation of Text Simplification (EMNLP) [Paper](https://aclanthology.org/D18-1081/)
 
-## Dataset - [Paper] (Publisher) [Dataset Link]
+## Dataset
 * CLOTH  - [Large-scale Cloze Test Dataset Created by Teachers] (EMNLP) [Dataset](https://www.cs.cmu.edu/~glai1/data/cloth/)
 * SCDE   - [SCDE: Sentence Cloze Dataset with High Quality Distractors From Examinations] (ACL) [Dataset](https://vgtomahawk.github.io/sced.html)
 * DGen   - [Knowledge-Driven Distractor Generation for Cloze-Style Multiple Choice Questions] (AAAI) [Dataset](https://github.com/DRSY/DGen)
