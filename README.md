@@ -1,5 +1,5 @@
 # DG_Survey
-This is reading list for **Distractor Generation for Multiple-Choice Questions: A Survey of Methods, Datasets, and Evaluation**
+This is reading list for **Distractor Generation for Multiple-Choice Tasks: A Survey of Methods, Datasets, and Evaluation**
 
 It contains **recommended reading papers** and dataset **links**.
 
@@ -13,11 +13,16 @@ It contains **recommended reading papers** and dataset **links**.
 * Survey of Hallucination in Natural Language Generation  (ACM Computing Surveys) [Paper](https://dl.acm.org/doi/abs/10.1145/3571730)
 * A Survey of Controllable Text Generation Using Transformer-based Pre-trained Language Models (ACM Computing Surveys) [Paper](https://dl.acm.org/doi/abs/10.1145/3617680)
 
-### Distractor Generation Approaches
-#### Similarity
+### Distractor Generation Methods
+
+#### Traditioanl
+### Corpus-based
 * Fast--an automatic generation system for grammar tests (COLING) [Paper](https://aclanthology.org/P06-4001.pdf)
 * Glove: Global vectors for word representation (EMNLP) [Paper](https://aclanthology.org/D14-1162.pdf)
 * Automatic generation of context-based fill-in-the-blank exercises using co-occurrence likelihoods and Google n-grams (BEA) [Paper](https://aclanthology.org/W16-0503.pdf)
+* Discriminative Approach to Fill-in-the-Blank Quiz Generation for Language Learners (ACL) [Paper](https://aclanthology.org/P13-2043.pdf)
+* Automatic Gap-fill Question Generation from Text Books (BEA) [Paper](https://aclanthology.org/W11-1407.pdf)
+* Automatic Generation of Challenging Distractors Using Context-Sensitive Inference Rules (BEA)[Paper](https://aclanthology.org/W14-1817.pdf)
 
 #### Ranking
 * Distractor Generation for Multiple Choice Questions Using Learning to Rank (BEA) [Dataset](https://github.com/harrylclc/LTR-DG)
