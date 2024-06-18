@@ -93,7 +93,7 @@ It contains **recommended reading papers** and dataset **links**.
 * Good, better, best: Textual distractors generation for multiple-choice visual question answering via reinforcement learning (CVPR) [Paper](https://openaccess.thecvf.com/content/CVPR2022W/ODRUM/html/Lu_Good_Better_Best_Textual_Distractors_Generation_for_Multiple-Choice_Visual_Question_CVPRW_2022_paper.html)
 * Can We Learn Question, Answer, and Distractors All from an Image? A New Task for Multiple-choice Visual Question Answering (LREC|COLING) [Paper](https://aclanthology.org/2024.lrec-main.254.pdf)
 
-## Evalaution Methods
+## Evaluation Methods
 * Assessing ranking metrics in top-N recommendation (Information Retrieval Journal) [Paper](https://link.springer.com/article/10.1007/s10791-020-09377-x)
 * A Survey of Evaluation Metrics Used for NLG Systems (ACM Computing Surveys) [Paper](https://dl.acm.org/doi/abs/10.1145/3485766)
 * Bleu: a Method for Automatic Evaluation of Machine Translation (ACL) [Paper](https://aclanthology.org/P02-1040.pdf)
