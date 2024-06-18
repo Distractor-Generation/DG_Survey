@@ -7,7 +7,7 @@ It contains **recommended reading papers** and dataset **links**.
 ### Surveys
 * A Survey of Natural Language Generation (ACM Computing Surveys) [Paper](https://dl-acm-org.simsrad.net.ocs.mq.edu.au/doi/10.1145/3554727)
 * A Review on Question Generation from Natural Language Text (ACM Transactions on Information Systems) [Paper](https://dl.acm.org/doi/abs/10.1145/3468889)
-* A Systematic Review of Automatic Question Generation for Educational Purposes ( International Journal of Artificial Intelligence in Education ) [Paper](https://link.springer.com/article/10.1007/s40593-019-00186-y)
+* A Systematic Review of Automatic Question Generation for Educational Purposes (International Journal of Artificial Intelligence in Education) [Paper](https://link.springer.com/article/10.1007/s40593-019-00186-y)
 * Automatic Multiple Choice Question Generation From Text: A Survey (IEEE Transactions on Learning Technologies) [Paper](https://ieeexplore.ieee.org/abstract/document/8585151)
 * Automatic question generation and answer assessment: a survey (Research and Practice in Technology Enhanced Learning) [Paper](https://telrp.springeropen.com/articles/10.1186/s41039-021-00151-1)
 * Survey of Hallucination in Natural Language Generation  (ACM Computing Surveys) [Paper](https://dl.acm.org/doi/abs/10.1145/3571730)
@@ -30,7 +30,7 @@ It contains **recommended reading papers** and dataset **links**.
 * Knowledge-Driven Distractor Generation for Cloze-Style Multiple Choice Questions (AAAI) [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/16559)
 * Multiple Choice Question Generation Utilizing An Ontology (BEA) [Paper](https://aclanthology.org/W17-5034/)
 * Ontology-Based Generation of Medical, Multi-term MCQs (International Journal of Artificial Intelligence in Education) [Paper](https://link.springer.com/article/10.1007/s40593-018-00172-w)
-* A novel approach to generate distractors for Multiple Choice Questions (Expert Systems with Applications)[https://www.sciencedirect.com/science/article/pii/S0957417423005249]
+* A novel approach to generate distractors for Multiple Choice Questions (Expert Systems with Applications)[Paper](https://www.sciencedirect.com/science/article/pii/S0957417423005249)
 
 ### Deep Neural Networks
 * Sequence to sequence learning with neural networks (NeurIPS) [Paper](https://proceedings.neurips.cc/paper/2014/hash/a14ac55a4f27472c5d894ec1c3c743d2-Abstract.html)
@@ -49,8 +49,8 @@ It contains **recommended reading papers** and dataset **links**.
 * Mixture Content Selection for Diverse Sequence Generation (EMNLP|IJCNLP) [Paper](https://aclanthology.org/D19-1308.pdf)
 * Automatic Distractor Generation for Multiple Choice Questions in Standard Tests  (COLING) [Paper](https://aclanthology.org/2020.coling-main.189/)
 
-#### Pre-trained Models
-### Word-Embedding 
+### Pre-trained Models
+#### Word-Embedding 
 * GloVe: Global Vectors for Word Representation (EMNLP) [Paper](https://aclanthology.org/D14-1162.pdf)
 * Enriching Word Vectors with Subword Information (TACL) [Paper](https://aclanthology.org/Q17-1010.pdf)
 * Revup: Automatic Gap-fill Question Generation from Educational Texts (BEA) [Paper](https://aclanthology.org/W15-0618.pdf)
@@ -60,13 +60,13 @@ It contains **recommended reading papers** and dataset **links**.
 * Automatic distractor generation for multiple-choice English vocabulary questions (Research and Practice in Technology Enhanced Learning) [Paper](https://telrp.springeropen.com/articles/10.1186/s41039-018-0082-z)
 * Difficulty-aware Distractor Generation for Gap-Fill Items (ALTA) [Paper](https://aclanthology.org/U19-1021.pdf)
 
-### Pre-trained Language Models (PLMs)
+#### Pre-trained Language Models (PLMs)
 * Language Models are Few-Shot Learners (NeurIPS) [Paper](https://proceedings.neurips.cc/paper/2020/hash/1457c0d6bfcb4967418bfb8ac142f64a-Abstract.html)
 * BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (NAACL) [Paper](https://aclanthology.org/N19-1423.pdf)
 * Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer (The Journal of Machine Learning Research) [Paper](https://dl.acm.org/doi/abs/10.5555/3455716.3455856)
 * BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension (ACL) [Paper](https://aclanthology.org/2020.acl-main.703.pdf)
 
-### PLMs with Fine-Tuning
+#### PLMs with Fine-Tuning
 * A BERT-based Distractor Generation Scheme with Multi-tasking and Negative Answer Training Strategies (Findings) [Paper](https://aclanthology.org/2020.findings-emnlp.393.pdf)
 * CDGP: Automatic Cloze Distractor Generation based on Pre-trained Language Model (Findings) [Paper](https://aclanthology.org/2022.findings-emnlp.429.pdf)
 * Learning to Reuse Distractors to Support Multiple-Choice Question Generation in Education (IEEE Transactions on Learning Technologies) [Paper](https://ieeexplore.ieee.org/abstract/document/9969921)
@@ -75,7 +75,7 @@ It contains **recommended reading papers** and dataset **links**.
 * BERT-based distractor generation for Swedish reading comprehension questions using a small-scale dataset (INLG) [Paper](https://aclanthology.org/2021.inlg-1.43.pdf)
 * Distractor Generation Through Text-to-Text Transformer Models (IEEE Access) [Paper](https://ieeexplore.ieee.org/abstract/document/10418879)
 
-### PLMs with Prompting
+#### PLMs with Prompting
 * Generating Multiple Choice Questions for Computing Courses Using Large Language Models (Frontiers in Education) [Paper](https://ieeexplore.ieee.org/abstract/document/10342898)
 * A Novel Multi-Stage Prompting Approach for Language Agnostic MCQ Generation Using GPT (Advances in Information Retrieval) [Paper](https://link.springer.com/chapter/10.1007/978-3-031-56063-7_18)
 * Distractor generation for multiple-choice questions with predictive prompting and large language models (RKDE) [Paper](https://arxiv.org/pdf/2307.16338)
