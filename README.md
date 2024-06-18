@@ -23,7 +23,7 @@ It contains **recommended reading papers** and dataset **links**.
 * Automatic generation of context-based fill-in-the-blank exercises using co-occurrence likelihoods and Google n-grams (BEA) [Paper](https://aclanthology.org/W16-0503.pdf)
 * Discriminative Approach to Fill-in-the-Blank Quiz Generation for Language Learners (ACL) [Paper](https://aclanthology.org/P13-2043.pdf)
 * Automatic Gap-fill Question Generation from Text Books (BEA) [Paper](https://aclanthology.org/W11-1407.pdf)
-* Automatic Generation of Challenging Distractors Using Context-Sensitive Inference Rules (BEA)[Paper](https://aclanthology.org/W14-1817.pdf)
+* Automatic Generation of Challenging Distractors Using Context-Sensitive Inference Rules (BEA) [Paper](https://aclanthology.org/W14-1817.pdf)
 
 #### Graph-based
 * Computer-aided generation of multiple-choice tests (NAACL) [Paper](https://aclanthology.org/W03-0203.pdf)
@@ -31,7 +31,7 @@ It contains **recommended reading papers** and dataset **links**.
 * Knowledge-Driven Distractor Generation for Cloze-Style Multiple Choice Questions (AAAI) [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/16559)
 * Multiple Choice Question Generation Utilizing An Ontology (BEA) [Paper](https://aclanthology.org/W17-5034/)
 * Ontology-Based Generation of Medical, Multi-term MCQs (International Journal of Artificial Intelligence in Education) [Paper](https://link.springer.com/article/10.1007/s40593-018-00172-w)
-* A novel approach to generate distractors for Multiple Choice Questions (Expert Systems with Applications)[Paper](https://www.sciencedirect.com/science/article/pii/S0957417423005249)
+* A novel approach to generate distractors for Multiple Choice Questions (Expert Systems with Applications) [Paper](https://www.sciencedirect.com/science/article/pii/S0957417423005249)
 
 ### Deep Neural Networks
 * Sequence to sequence learning with neural networks (NeurIPS) [Paper](https://proceedings.neurips.cc/paper/2014/hash/a14ac55a4f27472c5d894ec1c3c743d2-Abstract.html)
@@ -42,7 +42,7 @@ It contains **recommended reading papers** and dataset **links**.
 * From Neural Sentence Summarization to Headline Generation: A Coarse-to-Fine Approach (IJCAI) [Paper](https://www.ijcai.org/proceedings/2017/574)
 * Coarse-to-Fine Attention Models for Document Summarization (WS) [Paper](https://aclanthology.org/W17-4505/)
 * Co-Attention Hierarchical Network: Generating Coherent Long Distractors for Reading Comprehension (AAAI) [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/6522)
-* Bidirectional Attention Flow for Machine Comprehension (ICLR)[Paper](https://arxiv.org/pdf/1611.01603)
+* Bidirectional Attention Flow for Machine Comprehension (ICLR) [Paper](https://arxiv.org/pdf/1611.01603)
 * Topic Enhanced Multi-head Co-Attention: Generating Distractors for Reading Comprehension (IJCNN) [Paper](https://ieeexplore.ieee.org/abstract/document/9533341)
 * Learning to Distract: A Hierarchical Multi-Decoder Network for Automated Generation of Long Distractors for Multiple-Choice Questions for Reading Comprehension (CIKM) [Paper](https://dl.acm.org/doi/10.1145/3340531.3411997)
 * QDG: A unified model for automatic question-distractor pairs generation (Applied Intelligence) [Paper](https://link.springer.com/article/10.1007/s10489-022-03894-6)
